@@ -17,7 +17,7 @@
     "bunyan-rotating-file-stream": "^1.6.3",
     "cron": "^1.7.1",
     "discord.js": "^12.5.3",
-    "dotenv": "^4.0.0",
+    "dotenv": "^16.0.3",
     "express": "^4.17.1",
     "moment": "^2.24.0",
     "mongoose": "^5.7.7",
